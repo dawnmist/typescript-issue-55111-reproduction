@@ -1,0 +1,8 @@
+{
+  "javascript.preferences.autoImportFileExcludePatterns": [
+    "@remix-run/server-runtime",
+  ],
+  "typescript.preferences.autoImportFileExcludePatterns": [
+    "@remix-run/server-runtime",
+  ]
+}
